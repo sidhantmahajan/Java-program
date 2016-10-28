@@ -2,7 +2,8 @@ import java.util.*;
 
 class BasicPrograms{
   public static int multiply(int a, int b){
-    return(a8b); 
+    int total = a * b;
+    return(total); 
   }
   
   public static void main(String args[]){
