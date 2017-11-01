@@ -2,7 +2,7 @@ import java.util.Scanner; //Need to import this to use the Scanner object
 
 class AddNumbers
 {
-  //How to do declare the main. This is where your code goes
+  
   public static void main(String args[]){
     int x; //Decalre integer variable x
     int y; //Declare integer variable y
