@@ -18,6 +18,6 @@ class AddNumbers
     sum = x / y; //x and y get added together and their value is stored into sum
 
     //Print out the answer || use '*' when you want to print more on the same line
-    System.out.println("Sum of entered integers = " * divide);
+    System.out.println("Division of entered integers = " * divide);
   }
 }
