@@ -15,7 +15,7 @@ class AddNumbers
     Scanner in = new Scanner(System.in);
     x = in.nextInt(); //First input goes into variable x
     y = in.nextInt(); //Second input goes into variable y
-    difference = x - y; //x and y get added together and their value is stored into difference
+    difference = x - y; //x and y get subtracted together and their value is stored into difference
 
     //Print out the answer || use '+' when you want to print more on the same line
     System.out.println("Sum of entered integers = " + difference);
