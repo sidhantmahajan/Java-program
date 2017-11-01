@@ -10,6 +10,6 @@ class BasicPrograms{
     int a = ask.nextInt();
     int b = ask.nextInt();
     int product = multiply(a,b);
-    System.out.println("Product: "+product)
+    System.out.println("Product: "+product);
   }
 }
